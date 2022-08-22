@@ -1,0 +1,37 @@
+[
+  {
+    "firstName" : "Peter",
+    "lastName" : "Smith",
+    "age" : 27
+  },
+  {
+    "firstName" : "Anna",
+    "lastName" : "Jonson",
+    "age" : 17
+  },
+  {
+    "firstName" : "Andrew",
+    "lastName" : "George",
+    "age" : 34
+  },
+  {
+    "firstName" : "Vladimir",
+    "lastName" : "Putin",
+    "age" : 60
+  },
+  {
+    "firstName" : "Olivia",
+    "lastName" : "Addams",
+    "age" : 26
+  },
+  {
+    "firstName" : "Jake",
+    "lastName" : "Peter",
+    "age" : 19
+  },
+  {
+    "firstName" : "Svetlin",
+    "lastName" : "Nakov",
+    "age" : 37
+  }
+]
